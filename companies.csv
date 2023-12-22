@@ -1,3 +1,35 @@
-company;symbol;cap;price;dividend
-Tesla;TSLA;1,000,000;65.32;10.52
-Phillip Morris;PM;3,650,000;45.98;14.03
+Company;Symbol;Cap;Price;Dividend
+Abbot Laboratories;ABT;;;
+Adobe Inc.;ADBE;;;
+Alphabet Inc. Class A;GOOGL;;;
+Alphabet Inc. Class B;GOOG;;;
+Amazon.com Inc.;AMZN;;;
+Apple Inc.;AAPL;;;
+Bank of America Corp.;BAC;;;
+Berkshire Hathaway Inc. Class B;;;
+Exxon Mobil Corporation;XOM;;;
+Cisco Systems Inc.;CSCO;;;
+Coca-Cola Company;KO;;;
+Comcast Corporation Class A;CMCSA;;;
+Facebook Inc Class A;FB;;;
+Home Depot Inc.;HD;;;
+Intel Corporation;INTC;;;
+Johnson & Johnson;JNJ;;;
+JPMorgan Chase & Co.;JPM;;;
+Mastercard Incorporated Class A;MA;;;
+Microsoft Corporation;MSFT;;;
+Netflix Inc.;NFLX;;;
+NIKE Inc. Class B;NKE;;;
+NVIDIA Corporation;NVDA;;;
+PayPal Holdings Inc.;PYPL;;;
+PepsiCo Inc.;PEP;;;
+Pfizer Inc.;PFE;;;
+Phillip Morris;PM;;;
+Proctor & Gamble Company;PG;;;
+salesforce.com;CRM;;;
+Tesla;TSLA;;;
+Thermo Fisher Scientific Inc.;TMO;;;
+UnitedHealth Group Incorporated;UNH;;;
+Verison Communication Inc.;VZ;;;
+Visa Inc. Class A;V;;;
+Walt Disney Company;DIS;;;
